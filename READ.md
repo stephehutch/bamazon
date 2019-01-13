@@ -3,13 +3,13 @@
 ## Before Running this program
 
 Before running this program be sure to complete the following:
-    1) Add your MySQL password in line 15 of bamazon.js.
-    2) Open bamazon.sql in WorkBench and restart the connection.
+ 1) Add your MySQL password in line 15 of bamazon.js.
+ 2) Open bamazon.sql in WorkBench and restart the connection.
     
 ### Dependencies
 This database requires the follwoing node packages: 
-    1) require
-    2) inquirer
+ 1) require
+ 2) inquirer
 
     var mysql = require("mysql");
     var inquirer = require("inquirer"); 
